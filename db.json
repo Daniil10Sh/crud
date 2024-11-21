@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Велтка нова книга NODEJS",
+      "director": "Frank Darabont",
+      "genres": [
+        "Drama"
+      ],
+      "rating": "9.5 "
+    },
+    {
+      "id": "2",
+      "title": "Хресний батько",
+      "director": "Francis Ford Coppola",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2
+    },
+    {
+      "id": "3",
+      "title": "Темний лицар",
+      "director": "Christopher Nolan",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9
+    }
+  ]
+}
